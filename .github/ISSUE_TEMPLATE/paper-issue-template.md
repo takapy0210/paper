@@ -1,13 +1,14 @@
 ---
 name: paper issue template
-about: Issues用テンプレート
+about: 論文用テンプレート
 title: ''
-labels: 'reading list'
+labels: 'paper'
 assignees: ''
 
 ---
 
 ## Meta
+
 - Link: 
 - Author: 
 - Date: 
